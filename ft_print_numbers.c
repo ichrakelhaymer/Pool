@@ -10,8 +10,3 @@ void ft_print_numbers(void)
         s++;
     }
 }
-int main()
-{
-    ft_print_numbers();
-    return 0;
-}
