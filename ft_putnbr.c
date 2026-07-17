@@ -20,11 +20,3 @@ void ft_putnbr(int nb)
     else
         ft_putchar(n + 48);
 }
-int main()
-{
-    ft_putnbr(235353345);
-    ft_putchar('\n');
-    ft_putnbr(-2147483648);
-    ft_putchar('\n');
-    return (0);
-}
