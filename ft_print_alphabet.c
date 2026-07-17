@@ -9,9 +9,3 @@ void ft_print_alphabet()
         s++;
     }
 }
-
-int main()
-{
-    ft_print_alphabet();
-    return 0;
-}
